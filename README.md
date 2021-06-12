@@ -64,7 +64,7 @@ MUST HAVE OCTAVE INSTALLED FOR THIS TO WORK
 
 ## Useful links
 
-- Programming Exercise Help: <https://www.coursera.org/learn/machine-learning/discussions/all/threads/UAv1DB62EeWd3iIAC7VAtA>
+- Programming Exercise Help: <https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA>
 
 ---
 
