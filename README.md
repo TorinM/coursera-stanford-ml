@@ -2,6 +2,8 @@
 
 This repository contains the programming assignments for the Coursera Machine Learning Class from Stanford University taught by Andrew Ng
 
+---
+
 ## Assignment 1
 
 - Description: Located in file Assignment 1/ex1.pdf
@@ -41,3 +43,7 @@ This repository contains the programming assignments for the Coursera Machine Le
 - Score: -/100
 
 - Folder: Assignment 5
+
+---
+
+All rights owned by Coursera, Standford University and Andrew Ng.
