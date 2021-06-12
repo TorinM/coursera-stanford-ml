@@ -1,6 +1,8 @@
 # Coursera Stanford Machine Learning Class
 
-This repository contains the programming assignments for the Coursera Machine Learning Class from Stanford University taught by Andrew Ng
+This repository contains the programming assignments for the Coursera Machine Learning Class from Stanford University taught by Andrew Ng.
+
+Code is written to be compliant with Octave 3.8.0.
 
 ---
 
