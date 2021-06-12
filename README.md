@@ -50,4 +50,10 @@ Course was taken in Spring 2021
 
 ---
 
+## Useful links
+
+- Programming Exercise Help: <https://www.coursera.org/learn/machine-learning/discussions/all/threads/UAv1DB62EeWd3iIAC7VAtA>
+
+---
+
 All rights owned by Coursera, Standford University and Andrew Ng.
