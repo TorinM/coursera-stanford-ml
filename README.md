@@ -4,6 +4,8 @@ This repository contains the programming assignments for the Coursera Machine Le
 
 Code is written to be compliant with Octave 3.8.0.
 
+Course was taken in Spring 2021
+
 ---
 
 ## Assignment 1
