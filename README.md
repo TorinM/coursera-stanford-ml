@@ -10,43 +10,43 @@ Course was taken in Spring 2021
 
 ## Assignment 1
 
-- Description: Located in file Assignment 1/ex1.pdf
+- Description: Located in file assignment_1/ex1.pdf
 
 - Score: 100/100
 
-- Folder: Assignment 1
+- Folder: assignment_1
 
 ## Assignment 2
 
-- Description: Located in file Assignment 2/ex2.pdf
+- Description: Located in file assignment_2/ex2.pdf
 
 - Score: 100/100
 
-- Folder: Assignment 2
+- Folder: assignment_2
 
 ## Assignment 3
 
-- Description: Located in file Assignment 3/ex3.pdf
+- Description: Located in file assignment_3/ex3.pdf
 
 - Score: 100/100
 
-- Folder: Assignment 3
+- Folder: assignment_3
 
 ## Assignment 4
 
-- Description: Located in file Assignment 4/ex4.pdf
+- Description: Located in file assignment_4/ex4.pdf
 
 - Score: 100/100
 
-- Folder: Assignment 4
+- Folder: assignment_4
 
 ## Assignment 5
 
-- Description: Located in file Assignment 5/ex5.pdf
+- Description: Located in file assignment_5/ex5.pdf
 
 - Score: -/100
 
-- Folder: Assignment 5
+- Folder: assignment_5
 
 ---
 
