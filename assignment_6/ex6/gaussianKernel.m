@@ -14,12 +14,8 @@ sim = 0;
 %               and x2 computed using a Gaussian kernel with bandwidth
 %               sigma
 %
-%
-
-
-
-
-
+magnitude = sum((x1-x2).^2); # numerator
+sim = e^(-magnitude/(2*sigma^2)); # full function
 
 % =============================================================
     
