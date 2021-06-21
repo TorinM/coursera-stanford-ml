@@ -56,9 +56,17 @@ MUST HAVE OCTAVE INSTALLED FOR THIS TO WORK
 
 - Description: Located in file assignment_5/ex5.pdf
 
-- Score: -/100
+- Score: 100/100
 
 - Folder: assignment_5
+
+## Assignment 6
+
+- Description: Located in file assignment_6/ex6.pdf
+
+- Score: -/100
+
+- Folder: assignment_6
 
 ---
 
