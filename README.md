@@ -16,59 +16,7 @@ How to use:
 
 - Or make an alias that points to .octave.sh
 
-MUST HAVE OCTAVE INSTALLED FOR THIS TO WORK
-
----
-
-## Assignment 1
-
-- Description: Located in file assignment_1/ex1.pdf
-
-- Score: 100/100
-
-- Folder: assignment_1
-
-## Assignment 2
-
-- Description: Located in file assignment_2/ex2.pdf
-
-- Score: 100/100
-
-- Folder: assignment_2
-
-## Assignment 3
-
-- Description: Located in file assignment_3/ex3.pdf
-
-- Score: 100/100
-
-- Folder: assignment_3
-
-## Assignment 4
-
-- Description: Located in file assignment_4/ex4.pdf
-
-- Score: 100/100
-
-- Folder: assignment_4
-
-## Assignment 5
-
-- Description: Located in file assignment_5/ex5.pdf
-
-- Score: 100/100
-
-- Folder: assignment_5
-
-## Assignment 6
-
-- Description: Located in file assignment_6/ex6.pdf
-
-- Score: -/100
-
-- Folder: assignment_6
-
----
+MUST HAVE OCTAVE INSTALLED
 
 ## Useful links
 
